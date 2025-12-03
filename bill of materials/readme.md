@@ -3,7 +3,7 @@
 
 |volgnummer|naam|omschrijving|nieuw/recup|kostprijs/stuk|aantal|subtotaal|
 |----------|----|------------|-----------|---------|------|---------|
-|         1| PCB| 5,2 x 8,9 cm  | nieuw          |  €1,51           |  1    |   €1,51      |
+|         1| PCB| 5,2 x 8,9 cm  | nieuw          |  €1,51           |  2    |   €3,02      |
 |         2| Batterijhouder| 1850 batterijhouder  | nieuw          |  €1,40           |  1    |   €1,40      |
 |         3| DRV8833| H-brug motor aandrijfmodule  | nieuw          |  €1,20           |  1    |   €1,20      |
 |         4| N20 motoren|DC 6V micro metal gearbox motor(50:1, 600 rpm)  | nieuw          |  €3,69           |  1    |   €11,1      |
