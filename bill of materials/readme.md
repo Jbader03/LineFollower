@@ -15,5 +15,5 @@
 |         10| 18650 oplader| 2-slot USB Li-ion charger  | nieuw          |  €3,39           |  1    |   €3,39      |
 |         11| Mini toggle switch| MTS-101 SPST aan/uit schakelaar  | nieuw          |  €0,23           |  1    |   €0,23      |
 |         12| Boutjes & moertjes| 120-delige metalen set   | nieuw          |  €2,38           |  1    |   €2,38      |
-|         13|  Arduino | Arduino   | recup          |  €10           |  1    |   €10     |
+|         13|  Arduino | Arduino nano  | nieuw          |  €10           |  1    |   €10     |
 
