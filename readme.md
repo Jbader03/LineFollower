@@ -2,22 +2,22 @@
 
 lege repository die je als template kan gebruiken om een eigen repository te starten voor uw linefollower project
 
-![A description of my image](images/empty.png)
+![A description of my image](images/fto.jpeg)
 
   
 ## specifications
 
-microcontroller:
+microcontroller: arduino nano
 
-motors: 
+motors: N20 micro motor
 
-h-bridge:
+h-bridge: DRV8833
 
-sensors:
+sensors: 8-kanaals IR-volgsensor
 
-batteries:
+batteries:2x18650
 
-wireless communication:
+wireless communication: hc-05
 
 distance sensor - motors:
 
